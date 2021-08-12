@@ -113,6 +113,11 @@ img {
   border-radius: 4px;
 }
 
+.hero__btn:hover,
+.hero__btn:focus {
+  background-color: #188ce8;
+}
+
 /* advantages */
 .advantages__title {
   font-size: 14px;
